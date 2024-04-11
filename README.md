@@ -10,4 +10,4 @@ I was the idiot, not Claude.
 
 please work
 
-hi!
+hi there!
