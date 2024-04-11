@@ -5,3 +5,5 @@ This is the readme file!
 hey there
 
 imagine journaling in github...
+
+I was the idiot, not Claude.
