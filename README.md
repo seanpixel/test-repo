@@ -4,8 +4,4 @@ This is the readme file!
 
 hey there
 
-hi!
-
-i hate testing webhooks
-
-help
+imagine journaling in github...
